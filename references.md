@@ -1,7 +1,7 @@
 # References
 
 ## Datasets
-
+- [Aligned Scores and Performances (ASAP) dataset](https://github.com/fosfrancesco/asap-dataset) - ASAP is a dataset of aligned musical scores (both MIDI and MusicXML) and performances (audio and MIDI), all with downbeat, beat, time signature, and key signature annotations.
 
 ## Libraries and Tools
 
