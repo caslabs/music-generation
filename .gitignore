@@ -2,3 +2,4 @@
 
 # no big models
 data/models/**.pth
+data/asap-dataset/
